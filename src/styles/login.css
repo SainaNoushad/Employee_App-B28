@@ -1,0 +1,37 @@
+.login-container{
+    width:300px;
+    margin:50px auto;
+    padding:20px;
+    border:1px solid #ccc;
+    box-shadow: 0 0 10px gba(0,0,0,0.1);
+}
+
+h2{
+    font-weight:bold;
+    text-shadow: 2px 2px 2px #999;
+}
+
+input{
+    width:80%;
+    padding:10px;
+    margin-left:10px ;
+    margin-bottom: 10px;
+    border:1px solid #ccc;
+    align-self: center;
+}
+
+.input-container{
+    margin-bottom: 20px;
+}
+button{
+    margin:10px;
+    padding: 8px;
+    cursor: pointer;
+}
+
+/* .popup{
+    position: fixed;
+    top:50%;
+    left:50%;
+    
+} */
